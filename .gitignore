@@ -1,0 +1,4 @@
+data/
+models/
+*.record
+.ipynb_checkpoints/

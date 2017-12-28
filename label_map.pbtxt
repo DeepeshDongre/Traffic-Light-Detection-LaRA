@@ -12,8 +12,3 @@ item {
   id: 3
   name: 'Yellow'
 }
-
-item {
-  id: 4
-  name: 'off'
-}
