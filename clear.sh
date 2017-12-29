@@ -1,5 +1,4 @@
-rm data/real_training_data/checkpoint
-rm data/real_training_data/events.out.*
-rm data/real_training_data/model.ckpt-*
-rm data/real_training_data/pipeline.config
-rm data/real_training_data/graph.pbtxt
+#!/bin/bash
+model=$1
+rm models/evaluating_$model/events.out.*
+rm models/training_$model/events.out.*

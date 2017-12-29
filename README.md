@@ -1,15 +1,6 @@
 
 [//]: # (Image References)
-[left0000]: ./examples/left0000.jpg
-[left0003]: ./examples/left0003.jpg
-[left0011]: ./examples/left0011.jpg
-[left0027]: ./examples/left0027.jpg
-[left0140]: ./examples/left0140.jpg
-[left0701]: ./examples/left0701.jpg
-
 [real0000]: ./examples/real0000.png
-[real0140]: ./examples/real0140.png
-[real0701]: ./examples/real0701.png
 
 # Traffic Light Detection and Classification with TensorFlow Object Detection API
 
@@ -38,23 +29,29 @@ Download the required model tar.gz files and untar them into `models/` directory
 ### Creating TFRecord files:
 
 `python data_conversion.py --input_yaml data/training_data/annotations_train.yaml --output_path data/train.record`
+
 `python data_conversion.py --input_yaml data/training_data/annotations_eval.yaml --output_path data/eval.record`
 
 
 ## Using Faster-RCNN / Inception SSD v2 / MobileNet SSD v1 model
 
-#### Training
+#### Training, Evaluating, and Tensorboarding
 
-`sh train.sh <faster_rcnn | ssd_inception | ssd_mobilene>`
+`sh train.sh <faster_rcnn | ssd_inception | ssd_mobilenet>`
+
+`sh evaluate.sh <faster_rcnn | ssd_inception | ssd_mobilenet>`
+
+`tensorboard --logdir=models --port=8052`
+
+*note you'd better not run train & evaluate together because they will use up GPU memory*
 
 #### Saving Weights for Inference
 
-`sh freeze.sh <faster_rcnn | ssd_inception | ssd_mobilene> <model checkpoint version num>`
+`sh freeze.sh <faster_rcnn | ssd_inception | ssd_mobilenet> <model checkpoint version num>`
 ---
 
 
 **Inference results can be viewed using the TrafficLightDetection-Inference.ipynb or .html files.**
 
-### Camera Image and Model's Detections      
-![alt-text][left0000]
+### Camera Image and Model's Detection Sample
 ![alt-text][real0000]

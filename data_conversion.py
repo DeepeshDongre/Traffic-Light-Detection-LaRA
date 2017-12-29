@@ -45,7 +45,7 @@ def create_tf_example(example):
     classes = [] # List of integer class id of bounding box (1 per box)
 
     for box in example['annotations']:
-        #print("adding box")
+        # adding box, one image may have multiple detected boxes
         xmins.append(float(box['xmin'] / width))
         xmaxs.append(float((box['xmin'] + box['x_width']) / width))
         ymins.append(float(box['ymin'] / height))

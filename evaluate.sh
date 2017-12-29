@@ -6,4 +6,4 @@ mkdir -p models/training_$model
 python $tf_research_path/object_detection/eval.py \
     --pipeline_config_path=config/$model.config \
     --checkpoint_dir=models/training_$model \
-    --eval_dir=models/training_$model
+    --eval_dir=models/evaluating_$model
