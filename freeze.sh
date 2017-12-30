@@ -5,5 +5,5 @@ tf_research_path=/nfs/private/models/research
 
 python $tf_research_path/object_detection/export_inference_graph.py \
     --pipeline_config_path=config/$model.config \
-    --trained_checkpoint_prefix=data/real_training_data/model.ckpt-$ckpt_ver \
+    --trained_checkpoint_prefix=models/training_$model/model.ckpt-$ckpt_ver \
     --output_directory=models/frozen_$model/

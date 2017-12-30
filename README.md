@@ -28,10 +28,9 @@ Download the required model tar.gz files and untar them into `models/` directory
 
 ### Creating TFRecord files:
 
-`python data_conversion.py --input_yaml data/training_data/annotations_train.yaml --output_path data/train.record`
+`python data_conversion.py --input_yaml lara/annotations_train.yaml --output_path lara/train.record`
 
-`python data_conversion.py --input_yaml data/training_data/annotations_eval.yaml --output_path data/eval.record`
-
+`python data_conversion.py --input_yaml lara/annotations_test.yaml --output_path lara/test.record`
 
 ## Using Faster-RCNN / Inception SSD v2 / MobileNet SSD v1 model
 

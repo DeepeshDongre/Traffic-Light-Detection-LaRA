@@ -1,0 +1,2680 @@
+- annotations:
+  - {class: Green, x_width: 6, xmin: 498, y_height: 15, ymin: 93}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000772.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 498, y_height: 15, ymin: 94}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000774.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 499, y_height: 15, ymin: 95}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000776.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 518, y_height: 15, ymin: 100}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000802.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 520, y_height: 15, ymin: 97}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000805.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 524, y_height: 15, ymin: 94}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000812.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 505, y_height: 15, ymin: 88}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000835.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 504, y_height: 15, ymin: 88}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000836.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 502, y_height: 15, ymin: 85}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000839.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 496, y_height: 15, ymin: 85}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000847.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 498, y_height: 17, ymin: 74}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000884.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 500, y_height: 17, ymin: 70}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000890.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 508, y_height: 17, ymin: 66}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000918.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 511, y_height: 17, ymin: 70}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000928.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 517, y_height: 17, ymin: 67}
+  - {class: Green, x_width: 8, xmin: 603, y_height: 20, ymin: 125}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000946.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 520, y_height: 17, ymin: 62}
+  - {class: Green, x_width: 8, xmin: 608, y_height: 20, ymin: 121}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000957.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 521, y_height: 17, ymin: 56}
+  - {class: Green, x_width: 8, xmin: 610, y_height: 20, ymin: 116}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000960.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 521, y_height: 17, ymin: 56}
+  - {class: Green, x_width: 8, xmin: 611, y_height: 20, ymin: 115}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000961.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 522, y_height: 17, ymin: 55}
+  - {class: Green, x_width: 8, xmin: 611, y_height: 20, ymin: 114}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_000963.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 541, y_height: 17, ymin: 44}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001004.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 550, y_height: 17, ymin: 39}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001016.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 556, y_height: 19, ymin: 33}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001024.jpg
+- annotations:
+  - {class: Yellow, x_width: 8, xmin: 554, y_height: 20, ymin: 32}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001040.jpg
+- annotations:
+  - {class: Yellow, x_width: 8, xmin: 549, y_height: 20, ymin: 28}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001049.jpg
+- annotations:
+  - {class: Yellow, x_width: 8, xmin: 533, y_height: 20, ymin: 20}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001067.jpg
+- annotations:
+  - {class: Yellow, x_width: 8, xmin: 531, y_height: 20, ymin: 17}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001070.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 532, y_height: 28, ymin: -1}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001108.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 531, y_height: 28, ymin: -1}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001109.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 522, y_height: 28, ymin: -4}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001117.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 512, y_height: 28, ymin: -11}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001135.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 506, y_height: 28, ymin: -14}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001143.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 504, y_height: 28, ymin: -13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001150.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 492, y_height: 28, ymin: -20}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001324.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 490, y_height: 28, ymin: -16}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001329.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 487, y_height: 28, ymin: -9}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001338.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 480, y_height: 28, ymin: -7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001357.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 475, y_height: 28, ymin: -7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001381.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 471, y_height: 28, ymin: -11}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001388.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 466, y_height: 28, ymin: -8}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001397.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 462, y_height: 28, ymin: -5}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001403.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 462, y_height: 28, ymin: -5}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001404.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 455, y_height: 28, ymin: -7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001418.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 442, y_height: 28, ymin: -2}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001441.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 442, y_height: 28, ymin: -2}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001443.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 432, y_height: 28, ymin: -7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001471.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 429, y_height: 28, ymin: -2}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001477.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 428, y_height: 28, ymin: -2}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001479.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 416, y_height: 28, ymin: 0}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001503.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 409, y_height: 28, ymin: -2}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001516.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 406, y_height: 28, ymin: 7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001560.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 413, y_height: 28, ymin: 7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001566.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 420, y_height: 28, ymin: 5}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001573.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 429, y_height: 28, ymin: 11}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001588.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 431, y_height: 28, ymin: 11}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001595.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 431, y_height: 28, ymin: 11}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001597.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 431, y_height: 28, ymin: 9}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001602.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 431, y_height: 28, ymin: 9}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001604.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 431, y_height: 28, ymin: 9}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001610.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 431, y_height: 28, ymin: 12}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001614.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 431, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001622.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001642.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001647.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001651.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001652.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001662.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001663.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001675.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001677.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001690.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001706.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001713.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001730.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001739.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001754.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001767.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001784.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001806.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001810.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001815.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001843.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001860.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001861.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001875.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001881.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001883.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001896.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001956.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001964.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_001965.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002002.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002006.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002009.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002013.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002021.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002030.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002031.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002040.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002041.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002053.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 430, y_height: 28, ymin: 16}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002064.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 427, y_height: 28, ymin: 23}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002072.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 414, y_height: 28, ymin: 21}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002087.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 416, y_height: 28, ymin: 17}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002094.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 433, y_height: 25, ymin: 8}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002106.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 436, y_height: 25, ymin: 7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002107.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 474, y_height: 25, ymin: 0}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002119.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 483, y_height: 25, ymin: 0}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002122.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 487, y_height: 25, ymin: -1}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002124.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 478, y_height: 25, ymin: -3}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002135.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 422, y_height: 22, ymin: -5}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002151.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 379, y_height: 22, ymin: -10}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_002161.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 555, y_height: 15, ymin: 132}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003269.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 552, y_height: 15, ymin: 132}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003272.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 536, y_height: 15, ymin: 142}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003284.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 498, y_height: 17, ymin: 122}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003299.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 486, y_height: 17, ymin: 121}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003304.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 470, y_height: 17, ymin: 123}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003313.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 528, y_height: 21, ymin: 90}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003354.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 549, y_height: 25, ymin: 90}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003364.jpg
+- annotations:
+  - {class: Green, x_width: 13, xmin: 630, y_height: 29, ymin: 48}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003394.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 577, y_height: 33, ymin: 88}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003646.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 555, y_height: 33, ymin: 66}
+  - {class: Red, x_width: 11, xmin: 53, y_height: 28, ymin: 78}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003667.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 569, y_height: 33, ymin: 59}
+  - {class: Red, x_width: 11, xmin: 23, y_height: 28, ymin: 74}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003703.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 570, y_height: 33, ymin: 60}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 74}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003707.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 59}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 74}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003714.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 59}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 74}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003716.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003735.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003736.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003737.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003738.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003753.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003781.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003804.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003815.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003819.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003832.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003833.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003843.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003845.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003853.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003884.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003897.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003900.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003903.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003938.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003952.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003959.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003980.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003983.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_003993.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004005.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004012.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004020.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004025.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004027.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004043.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004046.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004054.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004064.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004066.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004067.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004076.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004086.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004114.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004131.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004132.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004147.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004164.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004176.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004193.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004195.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004196.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004206.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004211.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004240.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004244.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004245.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004265.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004267.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004345.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004363.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004365.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004377.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004381.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004384.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004397.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004405.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004407.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004429.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 67}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004435.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 68}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004436.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 70}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 83}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004448.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 571, y_height: 33, ymin: 84}
+  - {class: Red, x_width: 11, xmin: 22, y_height: 28, ymin: 99}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004452.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 581, y_height: 33, ymin: 79}
+  - {class: Red, x_width: 11, xmin: 25, y_height: 28, ymin: 95}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004464.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 591, y_height: 33, ymin: 78}
+  - {class: Red, x_width: 11, xmin: 29, y_height: 28, ymin: 93}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004469.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 595, y_height: 33, ymin: 79}
+  - {class: Red, x_width: 11, xmin: 31, y_height: 28, ymin: 93}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004471.jpg
+- annotations:
+  - {class: Red, x_width: 12, xmin: 39, y_height: 30, ymin: 75}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004506.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 29, y_height: 38, ymin: 67}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004515.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: -1, y_height: 38, ymin: 53}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_004533.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 558, y_height: 20, ymin: 125}
+  - {class: Red, x_width: 6, xmin: 448, y_height: 15, ymin: 121}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005033.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 524, y_height: 20, ymin: 128}
+  - {class: Red, x_width: 6, xmin: 410, y_height: 15, ymin: 121}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005045.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 521, y_height: 20, ymin: 127}
+  - {class: Red, x_width: 6, xmin: 408, y_height: 15, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005046.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 519, y_height: 20, ymin: 124}
+  - {class: Red, x_width: 6, xmin: 404, y_height: 15, ymin: 117}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005049.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 520, y_height: 20, ymin: 123}
+  - {class: Red, x_width: 6, xmin: 405, y_height: 15, ymin: 117}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005050.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 523, y_height: 20, ymin: 120}
+  - {class: Red, x_width: 6, xmin: 406, y_height: 15, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005054.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 538, y_height: 22, ymin: 114}
+  - {class: Red, x_width: 6, xmin: 394, y_height: 15, ymin: 104}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005102.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 541, y_height: 22, ymin: 111}
+  - {class: Red, x_width: 7, xmin: 387, y_height: 17, ymin: 101}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005112.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 543, y_height: 22, ymin: 110}
+  - {class: Red, x_width: 7, xmin: 384, y_height: 17, ymin: 100}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005119.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 554, y_height: 22, ymin: 98}
+  - {class: Red, x_width: 9, xmin: 382, y_height: 21, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005131.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 566, y_height: 22, ymin: 95}
+  - {class: Red, x_width: 9, xmin: 376, y_height: 21, ymin: 81}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005147.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 567, y_height: 22, ymin: 94}
+  - {class: Red, x_width: 9, xmin: 373, y_height: 21, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005150.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 564, y_height: 24, ymin: 82}
+  - {class: Red, x_width: 10, xmin: 362, y_height: 23, ymin: 68}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005157.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 571, y_height: 24, ymin: 84}
+  - {class: Red, x_width: 11, xmin: 356, y_height: 25, ymin: 68}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005166.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 576, y_height: 24, ymin: 76}
+  - {class: Red, x_width: 11, xmin: 354, y_height: 25, ymin: 60}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005171.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 603, y_height: 26, ymin: 65}
+  - {class: Red, x_width: 12, xmin: 355, y_height: 27, ymin: 47}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005187.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 351, y_height: 31, ymin: 31}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005208.jpg
+- annotations:
+  - {class: Red, x_width: 16, xmin: 343, y_height: 35, ymin: 23}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005216.jpg
+- annotations:
+  - {class: Red, x_width: 16, xmin: 342, y_height: 35, ymin: 21}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005218.jpg
+- annotations:
+  - {class: Red, x_width: 16, xmin: 341, y_height: 35, ymin: 20}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005219.jpg
+- annotations:
+  - {class: Red, x_width: 18, xmin: 331, y_height: 39, ymin: 7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005228.jpg
+- annotations:
+  - {class: Red, x_width: 18, xmin: 327, y_height: 39, ymin: 4}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005230.jpg
+- annotations:
+  - {class: Red, x_width: 20, xmin: 299, y_height: 43, ymin: -20}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005247.jpg
+- annotations:
+  - {class: Red, x_width: 24, xmin: 281, y_height: 51, ymin: -44}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005257.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 508, y_height: 15, ymin: 129}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005413.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 512, y_height: 15, ymin: 135}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005418.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 517, y_height: 17, ymin: 121}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005424.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 521, y_height: 17, ymin: 115}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005427.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 521, y_height: 17, ymin: 122}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005430.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 532, y_height: 17, ymin: 115}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005442.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 536, y_height: 17, ymin: 125}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005448.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 542, y_height: 18, ymin: 108}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005471.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 544, y_height: 18, ymin: 108}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005474.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 549, y_height: 18, ymin: 107}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005478.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 552, y_height: 18, ymin: 112}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005482.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 555, y_height: 18, ymin: 114}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005487.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 557, y_height: 18, ymin: 101}
+  - {class: Green, x_width: 9, xmin: 390, y_height: 23, ymin: 88}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005498.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 561, y_height: 18, ymin: 94}
+  - {class: Green, x_width: 9, xmin: 389, y_height: 23, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005504.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 561, y_height: 18, ymin: 90}
+  - {class: Green, x_width: 9, xmin: 387, y_height: 23, ymin: 76}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005506.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 563, y_height: 20, ymin: 94}
+  - {class: Green, x_width: 9, xmin: 386, y_height: 23, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005510.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 595, y_height: 20, ymin: 95}
+  - {class: Green, x_width: 11, xmin: 384, y_height: 27, ymin: 76}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005544.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 601, y_height: 24, ymin: 89}
+  - {class: Green, x_width: 11, xmin: 382, y_height: 27, ymin: 72}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005552.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 607, y_height: 24, ymin: 87}
+  - {class: Green, x_width: 11, xmin: 381, y_height: 27, ymin: 68}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005558.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 611, y_height: 24, ymin: 87}
+  - {class: Green, x_width: 12, xmin: 379, y_height: 29, ymin: 66}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005562.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 632, y_height: 32, ymin: 62}
+  - {class: Green, x_width: 12, xmin: 369, y_height: 29, ymin: 42}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005581.jpg
+- annotations:
+  - {class: Green, x_width: 12, xmin: 363, y_height: 29, ymin: 39}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005586.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 343, y_height: 40, ymin: 9}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005610.jpg
+- annotations:
+  - {class: Green, x_width: 24, xmin: 315, y_height: 56, ymin: -30}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_005625.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 489, y_height: 17, ymin: 123}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006094.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 489, y_height: 17, ymin: 126}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006097.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 489, y_height: 17, ymin: 127}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006098.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 490, y_height: 15, ymin: 131}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006107.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 490, y_height: 15, ymin: 128}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006108.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 492, y_height: 15, ymin: 116}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006134.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 496, y_height: 15, ymin: 125}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006149.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 497, y_height: 15, ymin: 128}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006152.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 501, y_height: 15, ymin: 130}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006156.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 508, y_height: 15, ymin: 136}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006163.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 520, y_height: 15, ymin: 117}
+  - {class: Green, x_width: 6, xmin: 395, y_height: 15, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006194.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 523, y_height: 15, ymin: 123}
+  - {class: Green, x_width: 6, xmin: 394, y_height: 15, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006200.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 528, y_height: 15, ymin: 116}
+  - {class: Green, x_width: 6, xmin: 392, y_height: 15, ymin: 112}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006210.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 534, y_height: 17, ymin: 107}
+  - {class: Green, x_width: 7, xmin: 384, y_height: 17, ymin: 104}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006226.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 536, y_height: 17, ymin: 108}
+  - {class: Green, x_width: 7, xmin: 383, y_height: 17, ymin: 105}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006229.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 536, y_height: 17, ymin: 108}
+  - {class: Green, x_width: 7, xmin: 382, y_height: 17, ymin: 105}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006230.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 538, y_height: 17, ymin: 109}
+  - {class: Green, x_width: 7, xmin: 381, y_height: 17, ymin: 105}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006232.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 541, y_height: 17, ymin: 105}
+  - {class: Green, x_width: 7, xmin: 378, y_height: 17, ymin: 101}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006239.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 548, y_height: 19, ymin: 94}
+  - {class: Green, x_width: 9, xmin: 372, y_height: 21, ymin: 88}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006250.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 549, y_height: 19, ymin: 90}
+  - {class: Green, x_width: 9, xmin: 371, y_height: 21, ymin: 84}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006251.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 553, y_height: 21, ymin: 87}
+  - {class: Green, x_width: 9, xmin: 368, y_height: 21, ymin: 82}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006257.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 564, y_height: 21, ymin: 88}
+  - {class: Green, x_width: 10, xmin: 360, y_height: 23, ymin: 80}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006269.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 568, y_height: 21, ymin: 92}
+  - {class: Green, x_width: 10, xmin: 360, y_height: 23, ymin: 85}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006271.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 569, y_height: 21, ymin: 93}
+  - {class: Green, x_width: 10, xmin: 359, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006272.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 571, y_height: 23, ymin: 89}
+  - {class: Green, x_width: 10, xmin: 358, y_height: 23, ymin: 84}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006274.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 577, y_height: 23, ymin: 80}
+  - {class: Green, x_width: 10, xmin: 357, y_height: 23, ymin: 74}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006278.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 582, y_height: 25, ymin: 79}
+  - {class: Green, x_width: 11, xmin: 354, y_height: 25, ymin: 73}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006281.jpg
+- annotations:
+  - {class: Green, x_width: 12, xmin: 592, y_height: 27, ymin: 75}
+  - {class: Green, x_width: 11, xmin: 349, y_height: 25, ymin: 70}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006288.jpg
+- annotations:
+  - {class: Green, x_width: 12, xmin: 594, y_height: 27, ymin: 74}
+  - {class: Green, x_width: 12, xmin: 348, y_height: 27, ymin: 67}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006289.jpg
+- annotations:
+  - {class: Green, x_width: 12, xmin: 597, y_height: 27, ymin: 74}
+  - {class: Green, x_width: 12, xmin: 347, y_height: 27, ymin: 67}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006291.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 620, y_height: 31, ymin: 51}
+  - {class: Green, x_width: 14, xmin: 326, y_height: 31, ymin: 45}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006306.jpg
+- annotations:
+  - {class: Green, x_width: 18, xmin: 301, y_height: 39, ymin: 16}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006319.jpg
+- annotations:
+  - {class: Green, x_width: 18, xmin: 293, y_height: 39, ymin: 16}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006323.jpg
+- annotations:
+  - {class: Green, x_width: 20, xmin: 259, y_height: 43, ymin: -15}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006336.jpg
+- annotations:
+  - {class: Green, x_width: 23, xmin: 231, y_height: 49, ymin: -33}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006343.jpg
+- annotations:
+  - {class: Green, x_width: 23, xmin: 218, y_height: 49, ymin: -41}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006346.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 500, y_height: 15, ymin: 149}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006527.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 501, y_height: 15, ymin: 138}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006536.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 509, y_height: 15, ymin: 134}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006550.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 511, y_height: 17, ymin: 125}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006554.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 514, y_height: 17, ymin: 124}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006559.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 516, y_height: 17, ymin: 123}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006561.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 519, y_height: 17, ymin: 123}
+  - {class: Green, x_width: 7, xmin: 382, y_height: 17, ymin: 111}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006570.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 520, y_height: 17, ymin: 100}
+  - {class: Green, x_width: 7, xmin: 376, y_height: 17, ymin: 90}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006578.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 523, y_height: 19, ymin: 102}
+  - {class: Green, x_width: 7, xmin: 376, y_height: 17, ymin: 95}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006584.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 383, y_height: 17, ymin: 98}
+  - {class: Green, x_width: 8, xmin: 537, y_height: 19, ymin: 105}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006592.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 388, y_height: 19, ymin: 89}
+  - {class: Green, x_width: 8, xmin: 545, y_height: 19, ymin: 98}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006596.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 389, y_height: 19, ymin: 87}
+  - {class: Green, x_width: 8, xmin: 547, y_height: 19, ymin: 96}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006597.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 389, y_height: 19, ymin: 62}
+  - {class: Green, x_width: 8, xmin: 557, y_height: 19, ymin: 69}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006607.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 385, y_height: 23, ymin: 69}
+  - {class: Green, x_width: 9, xmin: 556, y_height: 21, ymin: 75}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006610.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 378, y_height: 23, ymin: 100}
+  - {class: Green, x_width: 9, xmin: 556, y_height: 21, ymin: 108}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006616.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 362, y_height: 23, ymin: 92}
+  - {class: Green, x_width: 10, xmin: 570, y_height: 23, ymin: 101}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006638.jpg
+- annotations:
+  - {class: Green, x_width: 13, xmin: 335, y_height: 29, ymin: 62}
+  - {class: Green, x_width: 12, xmin: 590, y_height: 27, ymin: 70}
+  - {class: Green, x_width: 6, xmin: 503, y_height: 15, ymin: 122}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006661.jpg
+- annotations:
+  - {class: Green, x_width: 13, xmin: 326, y_height: 29, ymin: 55}
+  - {class: Green, x_width: 12, xmin: 602, y_height: 27, ymin: 63}
+  - {class: Green, x_width: 6, xmin: 505, y_height: 15, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006669.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 319, y_height: 33, ymin: 45}
+  - {class: Green, x_width: 14, xmin: 606, y_height: 31, ymin: 53}
+  - {class: Green, x_width: 6, xmin: 505, y_height: 15, ymin: 116}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006673.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 316, y_height: 33, ymin: 41}
+  - {class: Green, x_width: 14, xmin: 610, y_height: 31, ymin: 50}
+  - {class: Green, x_width: 6, xmin: 505, y_height: 15, ymin: 116}
+  - {class: Green, x_width: 6, xmin: 381, y_height: 15, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006675.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 310, y_height: 33, ymin: 38}
+  - {class: Green, x_width: 14, xmin: 617, y_height: 31, ymin: 48}
+  - {class: Green, x_width: 6, xmin: 505, y_height: 15, ymin: 116}
+  - {class: Green, x_width: 6, xmin: 379, y_height: 15, ymin: 115}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006679.jpg
+- annotations:
+  - {class: Green, x_width: 18, xmin: 285, y_height: 39, ymin: 15}
+  - {class: Green, x_width: 6, xmin: 515, y_height: 15, ymin: 116}
+  - {class: Green, x_width: 6, xmin: 379, y_height: 15, ymin: 115}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006695.jpg
+- annotations:
+  - {class: Green, x_width: 23, xmin: 238, y_height: 49, ymin: -36}
+  - {class: Green, x_width: 7, xmin: 529, y_height: 17, ymin: 110}
+  - {class: Green, x_width: 6, xmin: 380, y_height: 15, ymin: 110}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006714.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 554, y_height: 19, ymin: 104}
+  - {class: Green, x_width: 7, xmin: 381, y_height: 17, ymin: 101}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006741.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 554, y_height: 19, ymin: 103}
+  - {class: Green, x_width: 9, xmin: 379, y_height: 21, ymin: 97}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006742.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 558, y_height: 21, ymin: 80}
+  - {class: Green, x_width: 9, xmin: 365, y_height: 21, ymin: 77}
+  - {class: Green, x_width: 6, xmin: 501, y_height: 15, ymin: 114}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006758.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 559, y_height: 21, ymin: 77}
+  - {class: Green, x_width: 9, xmin: 360, y_height: 21, ymin: 71}
+  - {class: Green, x_width: 6, xmin: 499, y_height: 15, ymin: 112}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006763.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 561, y_height: 21, ymin: 85}
+  - {class: Green, x_width: 9, xmin: 355, y_height: 21, ymin: 77}
+  - {class: Green, x_width: 6, xmin: 498, y_height: 15, ymin: 121}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006769.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 563, y_height: 21, ymin: 90}
+  - {class: Green, x_width: 10, xmin: 352, y_height: 23, ymin: 79}
+  - {class: Green, x_width: 6, xmin: 498, y_height: 15, ymin: 126}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006773.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 566, y_height: 23, ymin: 101}
+  - {class: Green, x_width: 10, xmin: 352, y_height: 23, ymin: 90}
+  - {class: Green, x_width: 6, xmin: 499, y_height: 15, ymin: 140}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006776.jpg
+- annotations:
+  - {class: Green, x_width: 12, xmin: 572, y_height: 27, ymin: 91}
+  - {class: Green, x_width: 10, xmin: 351, y_height: 23, ymin: 83}
+  - {class: Green, x_width: 7, xmin: 502, y_height: 17, ymin: 134}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006781.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 577, y_height: 24, ymin: 82}
+  - {class: Green, x_width: 10, xmin: 348, y_height: 23, ymin: 72}
+  - {class: Green, x_width: 7, xmin: 503, y_height: 17, ymin: 124}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006785.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 580, y_height: 24, ymin: 83}
+  - {class: Green, x_width: 10, xmin: 347, y_height: 23, ymin: 72}
+  - {class: Green, x_width: 7, xmin: 504, y_height: 17, ymin: 126}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006787.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 582, y_height: 24, ymin: 86}
+  - {class: Green, x_width: 10, xmin: 346, y_height: 23, ymin: 77}
+  - {class: Green, x_width: 7, xmin: 505, y_height: 17, ymin: 131}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006789.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 585, y_height: 24, ymin: 91}
+  - {class: Green, x_width: 10, xmin: 345, y_height: 23, ymin: 82}
+  - {class: Green, x_width: 7, xmin: 506, y_height: 17, ymin: 136}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006791.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 619, y_height: 29, ymin: 75}
+  - {class: Green, x_width: 13, xmin: 334, y_height: 29, ymin: 67}
+  - {class: Green, x_width: 8, xmin: 519, y_height: 19, ymin: 133}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006810.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 631, y_height: 35, ymin: 47}
+  - {class: Green, x_width: 13, xmin: 328, y_height: 29, ymin: 44}
+  - {class: Green, x_width: 8, xmin: 523, y_height: 19, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006815.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 317, y_height: 31, ymin: 44}
+  - {class: Green, x_width: 8, xmin: 527, y_height: 19, ymin: 121}
+  - {class: Green, x_width: 6, xmin: 403, y_height: 14, ymin: 124}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006824.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 313, y_height: 31, ymin: 41}
+  - {class: Green, x_width: 8, xmin: 531, y_height: 19, ymin: 123}
+  - {class: Green, x_width: 6, xmin: 404, y_height: 14, ymin: 124}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006828.jpg
+- annotations:
+  - {class: Green, x_width: 16, xmin: 307, y_height: 35, ymin: 26}
+  - {class: Green, x_width: 8, xmin: 533, y_height: 19, ymin: 118}
+  - {class: Green, x_width: 6, xmin: 404, y_height: 14, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006831.jpg
+- annotations:
+  - {class: Green, x_width: 19, xmin: 289, y_height: 41, ymin: -2}
+  - {class: Green, x_width: 9, xmin: 537, y_height: 21, ymin: 105}
+  - {class: Green, x_width: 6, xmin: 402, y_height: 14, ymin: 108}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006839.jpg
+- annotations:
+  - {class: Green, x_width: 19, xmin: 277, y_height: 41, ymin: -9}
+  - {class: Green, x_width: 9, xmin: 536, y_height: 21, ymin: 106}
+  - {class: Green, x_width: 6, xmin: 399, y_height: 14, ymin: 108}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006843.jpg
+- annotations:
+  - {class: Green, x_width: 19, xmin: 269, y_height: 41, ymin: -11}
+  - {class: Green, x_width: 9, xmin: 538, y_height: 21, ymin: 108}
+  - {class: Green, x_width: 6, xmin: 398, y_height: 14, ymin: 111}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006846.jpg
+- annotations:
+  - {class: Green, x_width: 19, xmin: 258, y_height: 41, ymin: -18}
+  - {class: Green, x_width: 9, xmin: 538, y_height: 21, ymin: 109}
+  - {class: Green, x_width: 6, xmin: 396, y_height: 14, ymin: 112}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006849.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 539, y_height: 21, ymin: 94}
+  - {class: Green, x_width: 8, xmin: 378, y_height: 18, ymin: 92}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006868.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 538, y_height: 23, ymin: 91}
+  - {class: Green, x_width: 8, xmin: 374, y_height: 18, ymin: 90}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006872.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 539, y_height: 23, ymin: 93}
+  - {class: Green, x_width: 8, xmin: 373, y_height: 18, ymin: 92}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006873.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 539, y_height: 23, ymin: 98}
+  - {class: Green, x_width: 8, xmin: 372, y_height: 18, ymin: 98}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006875.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 544, y_height: 23, ymin: 93}
+  - {class: Green, x_width: 8, xmin: 361, y_height: 18, ymin: 94}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006888.jpg
+- annotations:
+  - {class: Green, x_width: 12, xmin: 561, y_height: 27, ymin: 84}
+  - {class: Green, x_width: 10, xmin: 360, y_height: 22, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006901.jpg
+- annotations:
+  - {class: Green, x_width: 12, xmin: 573, y_height: 27, ymin: 79}
+  - {class: Green, x_width: 11, xmin: 364, y_height: 24, ymin: 77}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006906.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 602, y_height: 31, ymin: 35}
+  - {class: Green, x_width: 11, xmin: 374, y_height: 24, ymin: 31}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006916.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 347, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006944.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 345, y_height: 30, ymin: 52}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006945.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 343, y_height: 30, ymin: 50}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006946.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 329, y_height: 32, ymin: 34}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006952.jpg
+- annotations:
+  - {class: Green, x_width: 16, xmin: 322, y_height: 34, ymin: 29}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006955.jpg
+- annotations:
+  - {class: Green, x_width: 16, xmin: 319, y_height: 34, ymin: 27}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006956.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 310, y_height: 36, ymin: 20}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006959.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 298, y_height: 36, ymin: 22}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006964.jpg
+- annotations:
+  - {class: Green, x_width: 20, xmin: 264, y_height: 42, ymin: -8}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006978.jpg
+- annotations:
+  - {class: Green, x_width: 24, xmin: 236, y_height: 50, ymin: -29}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_006986.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 379, y_height: 17, ymin: 97}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007028.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 378, y_height: 17, ymin: 106}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007033.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 378, y_height: 17, ymin: 109}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007038.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 558, y_height: 23, ymin: 108}
+  - {class: Green, x_width: 8, xmin: 376, y_height: 19, ymin: 101}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007047.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 562, y_height: 23, ymin: 103}
+  - {class: Green, x_width: 8, xmin: 377, y_height: 19, ymin: 95}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007050.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 597, y_height: 25, ymin: 82}
+  - {class: Green, x_width: 10, xmin: 380, y_height: 23, ymin: 70}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007073.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 599, y_height: 25, ymin: 82}
+  - {class: Green, x_width: 10, xmin: 380, y_height: 23, ymin: 70}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007075.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 612, y_height: 27, ymin: 67}
+  - {class: Green, x_width: 10, xmin: 369, y_height: 23, ymin: 60}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007088.jpg
+- annotations:
+  - {class: Green, x_width: 13, xmin: 626, y_height: 31, ymin: 73}
+  - {class: Green, x_width: 12, xmin: 357, y_height: 27, ymin: 66}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007100.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 633, y_height: 35, ymin: 65}
+  - {class: Green, x_width: 12, xmin: 352, y_height: 27, ymin: 61}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007105.jpg
+- annotations:
+  - {class: Green, x_width: 23, xmin: 249, y_height: 49, ymin: -33}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007152.jpg
+- annotations:
+  - {class: Red, x_width: 6, xmin: 443, y_height: 14, ymin: 131}
+  - {class: Red, x_width: 9, xmin: 461, y_height: 23, ymin: 109}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007380.jpg
+- annotations:
+  - {class: Red, x_width: 6, xmin: 445, y_height: 14, ymin: 129}
+  - {class: Red, x_width: 9, xmin: 463, y_height: 23, ymin: 107}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007382.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 301, y_height: 20, ymin: 99}
+  - {class: Red, x_width: 9, xmin: 464, y_height: 23, ymin: 97}
+  - {class: Red, x_width: 6, xmin: 448, y_height: 14, ymin: 121}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007387.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 300, y_height: 20, ymin: 98}
+  - {class: Red, x_width: 9, xmin: 470, y_height: 23, ymin: 96}
+  - {class: Red, x_width: 6, xmin: 453, y_height: 14, ymin: 122}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007395.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 299, y_height: 20, ymin: 96}
+  - {class: Red, x_width: 9, xmin: 472, y_height: 23, ymin: 94}
+  - {class: Red, x_width: 6, xmin: 454, y_height: 14, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007398.jpg
+- annotations:
+  - {class: Red, x_width: 8, xmin: 299, y_height: 20, ymin: 94}
+  - {class: Red, x_width: 9, xmin: 473, y_height: 23, ymin: 92}
+  - {class: Red, x_width: 6, xmin: 455, y_height: 14, ymin: 118}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007400.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 296, y_height: 22, ymin: 89}
+  - {class: Red, x_width: 9, xmin: 477, y_height: 23, ymin: 87}
+  - {class: Red, x_width: 6, xmin: 458, y_height: 14, ymin: 115}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007407.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 295, y_height: 22, ymin: 89}
+  - {class: Red, x_width: 9, xmin: 479, y_height: 23, ymin: 87}
+  - {class: Red, x_width: 6, xmin: 459, y_height: 14, ymin: 115}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007410.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 293, y_height: 22, ymin: 92}
+  - {class: Red, x_width: 9, xmin: 479, y_height: 23, ymin: 90}
+  - {class: Red, x_width: 6, xmin: 459, y_height: 14, ymin: 119}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007413.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 292, y_height: 22, ymin: 94}
+  - {class: Red, x_width: 9, xmin: 479, y_height: 23, ymin: 91}
+  - {class: Red, x_width: 7, xmin: 459, y_height: 16, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007414.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 290, y_height: 22, ymin: 94}
+  - {class: Red, x_width: 9, xmin: 481, y_height: 23, ymin: 91}
+  - {class: Red, x_width: 7, xmin: 459, y_height: 16, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007418.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 277, y_height: 22, ymin: 81}
+  - {class: Red, x_width: 9, xmin: 479, y_height: 23, ymin: 77}
+  - {class: Red, x_width: 7, xmin: 456, y_height: 16, ymin: 109}
+  - {class: Red, x_width: 7, xmin: 378, y_height: 15, ymin: 67}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007430.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 269, y_height: 24, ymin: 79}
+  - {class: Red, x_width: 9, xmin: 478, y_height: 23, ymin: 76}
+  - {class: Red, x_width: 7, xmin: 454, y_height: 16, ymin: 109}
+  - {class: Red, x_width: 7, xmin: 375, y_height: 15, ymin: 66}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007436.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 262, y_height: 24, ymin: 77}
+  - {class: Red, x_width: 9, xmin: 477, y_height: 23, ymin: 73}
+  - {class: Red, x_width: 7, xmin: 453, y_height: 16, ymin: 109}
+  - {class: Red, x_width: 7, xmin: 372, y_height: 15, ymin: 65}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007443.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 256, y_height: 24, ymin: 82}
+  - {class: Red, x_width: 9, xmin: 477, y_height: 23, ymin: 77}
+  - {class: Red, x_width: 7, xmin: 452, y_height: 16, ymin: 113}
+  - {class: Red, x_width: 7, xmin: 370, y_height: 15, ymin: 68}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007450.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 253, y_height: 24, ymin: 83}
+  - {class: Red, x_width: 9, xmin: 477, y_height: 23, ymin: 78}
+  - {class: Red, x_width: 7, xmin: 452, y_height: 16, ymin: 116}
+  - {class: Red, x_width: 7, xmin: 369, y_height: 15, ymin: 71}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007453.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 243, y_height: 26, ymin: 79}
+  - {class: Red, x_width: 10, xmin: 477, y_height: 25, ymin: 74}
+  - {class: Red, x_width: 7, xmin: 451, y_height: 16, ymin: 115}
+  - {class: Red, x_width: 7, xmin: 365, y_height: 15, ymin: 68}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007462.jpg
+- annotations:
+  - {class: Red, x_width: 12, xmin: 233, y_height: 28, ymin: 72}
+  - {class: Red, x_width: 10, xmin: 479, y_height: 25, ymin: 65}
+  - {class: Red, x_width: 7, xmin: 452, y_height: 16, ymin: 108}
+  - {class: Red, x_width: 7, xmin: 363, y_height: 15, ymin: 62}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007472.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 226, y_height: 30, ymin: 70}
+  - {class: Red, x_width: 12, xmin: 488, y_height: 30, ymin: 63}
+  - {class: Red, x_width: 8, xmin: 458, y_height: 18, ymin: 110}
+  - {class: Red, x_width: 7, xmin: 367, y_height: 15, ymin: 62}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007484.jpg
+- annotations:
+  - {class: Red, x_width: 15, xmin: 221, y_height: 34, ymin: 51}
+  - {class: Red, x_width: 15, xmin: 522, y_height: 37, ymin: 44}
+  - {class: Red, x_width: 9, xmin: 485, y_height: 20, ymin: 103}
+  - {class: Red, x_width: 8, xmin: 385, y_height: 17, ymin: 50}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007511.jpg
+- annotations:
+  - {class: Red, x_width: 15, xmin: 215, y_height: 34, ymin: 45}
+  - {class: Red, x_width: 15, xmin: 528, y_height: 37, ymin: 37}
+  - {class: Red, x_width: 9, xmin: 490, y_height: 20, ymin: 100}
+  - {class: Red, x_width: 9, xmin: 387, y_height: 19, ymin: 46}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007518.jpg
+- annotations:
+  - {class: Red, x_width: 16, xmin: 204, y_height: 36, ymin: 39}
+  - {class: Red, x_width: 15, xmin: 530, y_height: 37, ymin: 32}
+  - {class: Red, x_width: 9, xmin: 489, y_height: 20, ymin: 97}
+  - {class: Red, x_width: 9, xmin: 385, y_height: 19, ymin: 42}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007525.jpg
+- annotations:
+  - {class: Red, x_width: 17, xmin: 187, y_height: 38, ymin: 29}
+  - {class: Red, x_width: 17, xmin: 534, y_height: 41, ymin: 20}
+  - {class: Red, x_width: 10, xmin: 488, y_height: 22, ymin: 93}
+  - {class: Red, x_width: 9, xmin: 381, y_height: 19, ymin: 35}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007537.jpg
+- annotations:
+  - {class: Red, x_width: 18, xmin: 180, y_height: 40, ymin: 25}
+  - {class: Red, x_width: 17, xmin: 536, y_height: 41, ymin: 16}
+  - {class: Red, x_width: 10, xmin: 489, y_height: 22, ymin: 92}
+  - {class: Red, x_width: 9, xmin: 380, y_height: 19, ymin: 34}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007542.jpg
+- annotations:
+  - {class: Red, x_width: 18, xmin: 177, y_height: 40, ymin: 25}
+  - {class: Red, x_width: 17, xmin: 537, y_height: 41, ymin: 16}
+  - {class: Red, x_width: 10, xmin: 489, y_height: 22, ymin: 94}
+  - {class: Red, x_width: 9, xmin: 379, y_height: 19, ymin: 34}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007544.jpg
+- annotations:
+  - {class: Red, x_width: 18, xmin: 166, y_height: 40, ymin: 24}
+  - {class: Red, x_width: 17, xmin: 539, y_height: 41, ymin: 17}
+  - {class: Red, x_width: 10, xmin: 489, y_height: 22, ymin: 97}
+  - {class: Red, x_width: 9, xmin: 377, y_height: 19, ymin: 38}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007552.jpg
+- annotations:
+  - {class: Red, x_width: 20, xmin: 142, y_height: 44, ymin: 16}
+  - {class: Red, x_width: 20, xmin: 543, y_height: 47, ymin: 6}
+  - {class: Red, x_width: 10, xmin: 489, y_height: 22, ymin: 96}
+  - {class: Red, x_width: 9, xmin: 373, y_height: 19, ymin: 34}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007567.jpg
+- annotations:
+  - {class: Red, x_width: 21, xmin: 115, y_height: 46, ymin: -5}
+  - {class: Red, x_width: 21, xmin: 552, y_height: 49, ymin: -15}
+  - {class: Red, x_width: 10, xmin: 489, y_height: 22, ymin: 87}
+  - {class: Red, x_width: 11, xmin: 368, y_height: 23, ymin: 20}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007583.jpg
+- annotations:
+  - {class: Red, x_width: 22, xmin: 103, y_height: 48, ymin: -15}
+  - {class: Red, x_width: 21, xmin: 554, y_height: 49, ymin: -19}
+  - {class: Red, x_width: 10, xmin: 488, y_height: 22, ymin: 86}
+  - {class: Red, x_width: 11, xmin: 365, y_height: 23, ymin: 19}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007589.jpg
+- annotations:
+  - {class: Red, x_width: 24, xmin: 74, y_height: 52, ymin: -39}
+  - {class: Red, x_width: 24, xmin: 561, y_height: 55, ymin: -42}
+  - {class: Red, x_width: 10, xmin: 488, y_height: 22, ymin: 77}
+  - {class: Red, x_width: 11, xmin: 359, y_height: 23, ymin: 9}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007603.jpg
+- annotations:
+  - {class: Red, x_width: 27, xmin: 47, y_height: 58, ymin: -53}
+  - {class: Red, x_width: 11, xmin: 491, y_height: 24, ymin: 71}
+  - {class: Red, x_width: 12, xmin: 359, y_height: 25, ymin: 1}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007618.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 499, y_height: 24, ymin: 74}
+  - {class: Red, x_width: 12, xmin: 363, y_height: 25, ymin: 1}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007631.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 502, y_height: 24, ymin: 74}
+  - {class: Red, x_width: 12, xmin: 364, y_height: 25, ymin: 0}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007636.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 504, y_height: 24, ymin: 72}
+  - {class: Red, x_width: 12, xmin: 366, y_height: 25, ymin: -2}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007641.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 509, y_height: 24, ymin: 71}
+  - {class: Red, x_width: 12, xmin: 368, y_height: 25, ymin: -6}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007653.jpg
+- annotations:
+  - {class: Red, x_width: 11, xmin: 510, y_height: 24, ymin: 71}
+  - {class: Red, x_width: 12, xmin: 368, y_height: 25, ymin: -6}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007655.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 514, y_height: 28, ymin: 68}
+  - {class: Red, x_width: 12, xmin: 371, y_height: 25, ymin: -10}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007663.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 517, y_height: 28, ymin: 66}
+  - {class: Red, x_width: 12, xmin: 373, y_height: 25, ymin: -13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007670.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 526, y_height: 28, ymin: 64}
+  - {class: Red, x_width: 12, xmin: 380, y_height: 25, ymin: -14}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007678.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 527, y_height: 28, ymin: 64}
+  - {class: Red, x_width: 12, xmin: 381, y_height: 25, ymin: -14}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007679.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 528, y_height: 28, ymin: 62}
+  - {class: Red, x_width: 12, xmin: 382, y_height: 25, ymin: -15}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007682.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 529, y_height: 28, ymin: 63}
+  - {class: Red, x_width: 12, xmin: 382, y_height: 25, ymin: -17}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007686.jpg
+- annotations:
+  - {class: Red, x_width: 13, xmin: 529, y_height: 28, ymin: 60}
+  - {class: Red, x_width: 12, xmin: 379, y_height: 25, ymin: -20}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007696.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 534, y_height: 30, ymin: 56}
+  - {class: Red, x_width: 12, xmin: 384, y_height: 25, ymin: -24}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007707.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 539, y_height: 30, ymin: 57}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007715.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 543, y_height: 30, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007736.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 544, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007741.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 544, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007742.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 549, y_height: 30, ymin: 53}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007777.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 549, y_height: 30, ymin: 53}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007782.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 551, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007806.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 552, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007824.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 552, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007826.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 552, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007836.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 552, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007849.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 552, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007853.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 553, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007864.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 554, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007904.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 554, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007922.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 554, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007923.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 554, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007937.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 554, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007945.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_007993.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 54}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008031.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008044.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008058.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008059.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008064.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008066.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008081.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008085.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008093.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008099.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008109.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008112.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008113.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008131.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008137.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008139.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008147.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008150.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008177.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008179.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008183.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008188.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008190.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008194.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008195.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008200.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008202.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008203.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008209.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008217.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008223.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008224.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008225.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008235.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008239.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008253.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008264.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008269.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008275.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008277.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008282.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008296.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008321.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008332.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008334.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008335.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008361.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008368.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008377.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008383.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008389.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008407.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008410.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008416.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008435.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008493.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008498.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008502.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008516.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008525.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008527.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008531.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008534.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008549.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008551.jpg
+- annotations:
+  - {class: Red, x_width: 14, xmin: 555, y_height: 30, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008574.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008585.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008594.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008609.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008611.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008623.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008635.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008641.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008680.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008699.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008714.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008718.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 557, y_height: 35, ymin: 60}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008721.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 559, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008741.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 560, y_height: 35, ymin: 55}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008744.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 560, y_height: 35, ymin: 56}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008747.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 560, y_height: 35, ymin: 57}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008756.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 560, y_height: 35, ymin: 60}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008769.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 559, y_height: 35, ymin: 60}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008772.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 559, y_height: 35, ymin: 61}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008774.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 555, y_height: 35, ymin: 60}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008795.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 547, y_height: 35, ymin: 53}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008818.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 546, y_height: 35, ymin: 52}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008821.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 546, y_height: 35, ymin: 50}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008824.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 541, y_height: 35, ymin: 48}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008835.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 541, y_height: 35, ymin: 50}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008838.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 536, y_height: 35, ymin: 44}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008863.jpg
+- annotations:
+  - {class: Green, x_width: 14, xmin: 536, y_height: 35, ymin: 44}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008865.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 536, y_height: 37, ymin: 39}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008874.jpg
+- annotations:
+  - {class: Green, x_width: 15, xmin: 536, y_height: 37, ymin: 38}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008877.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 532, y_height: 41, ymin: 29}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008914.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 532, y_height: 41, ymin: 28}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008916.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 532, y_height: 41, ymin: 28}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008918.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 530, y_height: 41, ymin: 17}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008931.jpg
+- annotations:
+  - {class: Green, x_width: 17, xmin: 530, y_height: 41, ymin: 15}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008932.jpg
+- annotations:
+  - {class: Green, x_width: 19, xmin: 529, y_height: 45, ymin: 6}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008938.jpg
+- annotations:
+  - {class: Green, x_width: 19, xmin: 528, y_height: 45, ymin: 7}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008939.jpg
+- annotations:
+  - {class: Green, x_width: 22, xmin: 532, y_height: 51, ymin: -13}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008965.jpg
+- annotations:
+  - {class: Green, x_width: 22, xmin: 536, y_height: 51, ymin: -22}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008969.jpg
+- annotations:
+  - {class: Green, x_width: 22, xmin: 558, y_height: 51, ymin: -27}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008982.jpg
+- annotations:
+  - {class: Green, x_width: 24, xmin: 583, y_height: 55, ymin: -49}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_008995.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 280, y_height: 17, ymin: 116}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009039.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 280, y_height: 17, ymin: 116}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009046.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 280, y_height: 17, ymin: 116}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009048.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 280, y_height: 17, ymin: 117}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009052.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 280, y_height: 17, ymin: 117}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009056.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 281, y_height: 17, ymin: 118}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009066.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 280, y_height: 17, ymin: 123}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009090.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 280, y_height: 17, ymin: 119}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009093.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 279, y_height: 17, ymin: 112}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009096.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 279, y_height: 17, ymin: 114}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009107.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 279, y_height: 17, ymin: 114}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009111.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 279, y_height: 17, ymin: 114}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009114.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 271, y_height: 19, ymin: 109}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009133.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 270, y_height: 19, ymin: 107}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009136.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 518, y_height: 15, ymin: 105}
+  - {class: Green, x_width: 8, xmin: 268, y_height: 19, ymin: 105}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009141.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 517, y_height: 15, ymin: 105}
+  - {class: Green, x_width: 8, xmin: 265, y_height: 19, ymin: 106}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009147.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 510, y_height: 15, ymin: 99}
+  - {class: Green, x_width: 8, xmin: 245, y_height: 19, ymin: 100}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009184.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 510, y_height: 15, ymin: 101}
+  - {class: Green, x_width: 8, xmin: 243, y_height: 19, ymin: 104}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009189.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 507, y_height: 15, ymin: 99}
+  - {class: Green, x_width: 8, xmin: 237, y_height: 19, ymin: 103}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009198.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 505, y_height: 15, ymin: 102}
+  - {class: Green, x_width: 8, xmin: 233, y_height: 19, ymin: 107}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009203.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 488, y_height: 17, ymin: 104}
+  - {class: Green, x_width: 8, xmin: 210, y_height: 19, ymin: 107}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009216.jpg
+- annotations:
+  - {class: Green, x_width: 7, xmin: 480, y_height: 17, ymin: 104}
+  - {class: Green, x_width: 8, xmin: 200, y_height: 19, ymin: 107}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009221.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 431, y_height: 19, ymin: 116}
+  - {class: Green, x_width: 8, xmin: 139, y_height: 19, ymin: 119}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009242.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 418, y_height: 19, ymin: 119}
+  - {class: Green, x_width: 9, xmin: 123, y_height: 21, ymin: 120}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009247.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 409, y_height: 19, ymin: 117}
+  - {class: Green, x_width: 9, xmin: 112, y_height: 21, ymin: 119}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009250.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 403, y_height: 19, ymin: 115}
+  - {class: Green, x_width: 9, xmin: 102, y_height: 21, ymin: 118}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009253.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 381, y_height: 21, ymin: 114}
+  - {class: Green, x_width: 9, xmin: 76, y_height: 21, ymin: 117}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009259.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 311, y_height: 21, ymin: 117}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009279.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 280, y_height: 21, ymin: 130}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009287.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 268, y_height: 21, ymin: 128}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009290.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 254, y_height: 21, ymin: 129}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009293.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 244, y_height: 21, ymin: 131}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009295.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 239, y_height: 21, ymin: 132}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009296.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 214, y_height: 21, ymin: 129}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009301.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 208, y_height: 21, ymin: 129}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009302.jpg
+- annotations:
+  - {class: Green, x_width: 11, xmin: 484, y_height: 27, ymin: -3}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009603.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 582, y_height: 15, ymin: 123}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009869.jpg
+- annotations:
+  - {class: Green, x_width: 6, xmin: 580, y_height: 15, ymin: 123}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009871.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 618, y_height: 19, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009906.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 624, y_height: 19, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009910.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 558, y_height: 19, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009944.jpg
+- annotations:
+  - {class: Green, x_width: 8, xmin: 556, y_height: 19, ymin: 112}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009946.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 564, y_height: 21, ymin: 98}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009973.jpg
+- annotations:
+  - {class: Green, x_width: 9, xmin: 582, y_height: 21, ymin: 95}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009977.jpg
+- annotations:
+  - {class: Green, x_width: 10, xmin: 603, y_height: 23, ymin: 96}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_009982.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 547, y_height: 17, ymin: 127}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_010972.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 563, y_height: 17, ymin: 112}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_010995.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 565, y_height: 17, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_010997.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 579, y_height: 17, ymin: 116}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011015.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 580, y_height: 17, ymin: 113}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011017.jpg
+- annotations:
+  - {class: Red, x_width: 7, xmin: 580, y_height: 17, ymin: 105}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011021.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 581, y_height: 21, ymin: 96}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011026.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 586, y_height: 21, ymin: 91}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011040.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 587, y_height: 21, ymin: 91}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011043.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 587, y_height: 21, ymin: 91}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011044.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 589, y_height: 21, ymin: 93}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011053.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 589, y_height: 21, ymin: 94}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011055.jpg
+- annotations:
+  - {class: Red, x_width: 9, xmin: 590, y_height: 21, ymin: 93}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011057.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 599, y_height: 23, ymin: 77}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011095.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 599, y_height: 23, ymin: 77}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011097.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 600, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011131.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 600, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011132.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 600, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011141.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 600, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011144.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 600, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011150.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 600, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011164.jpg
+- annotations:
+  - {class: Red, x_width: 10, xmin: 600, y_height: 23, ymin: 86}
+  class: image
+  filename: Lara3D_UrbanSeq1_JPG/frame_011172.jpg

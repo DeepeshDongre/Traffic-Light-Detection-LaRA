@@ -1,10 +1,12 @@
 '''
-Usage: python data_conversion_udacity_real.py --output_path output_file_name.record
+Usage: python data_conversion --input_yaml input_file_name.yaml --output_path output_file_name.record
 '''
 
 import tensorflow as tf
 import yaml
 import os, sys
+import io
+from PIL import Image
 #from utilities import dataset_util
 sys.path.append('/nfs/private/models/research/object_detection')
 from utils import dataset_util
@@ -22,16 +24,14 @@ LABEL_DICT =  {
     }
 
 def create_tf_example(example):
-    
-    # Fix for udacity real data set
-    height = 1096 # Image height
-    width = 1368 # Image width
-
     filename = example['filename'] # Filename of the image. Empty if image is not from file
     filename = filename.encode()
 
     with tf.gfile.GFile(example['filename'], 'rb') as fid:
         encoded_image = fid.read()
+    encoded_jpg_io = io.BytesIO(encoded_image)
+    image = Image.open(encoded_jpg_io)
+    width, height = image.size
 
     image_format = 'jpg'.encode() 
 
@@ -46,13 +46,15 @@ def create_tf_example(example):
 
     for box in example['annotations']:
         # adding box, one image may have multiple detected boxes
-        xmins.append(float(box['xmin'] / width))
-        xmaxs.append(float((box['xmin'] + box['x_width']) / width))
-        ymins.append(float(box['ymin'] / height))
-        ymaxs.append(float((box['ymin']+ box['y_height']) / height))
+        if box['xmin'] + box['x_width'] > width or box['ymin']+ box['y_height'] > height:
+            continue
+
+        xmins.append(float(box['xmin']) / width)
+        xmaxs.append(float(box['xmin'] + box['x_width']) / width)
+        ymins.append(float(box['ymin']) / height)
+        ymaxs.append(float(box['ymin']+ box['y_height']) / height)
         classes_text.append(box['class'].encode())
         classes.append(int(LABEL_DICT[box['class']]))
-
 
     tf_example = tf.train.Example(features=tf.train.Features(feature={
         'image/height': dataset_util.int64_feature(height),
