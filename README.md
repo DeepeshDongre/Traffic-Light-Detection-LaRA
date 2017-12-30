@@ -1,17 +1,57 @@
-
 [//]: # (Image References)
-[real0000]: ./examples/real0000.png
+[i3738]: ./examples/frame_003738.jpg
+[aloss]: ./examples/TotLoss.png
 
-# Traffic Light Detection and Classification with TensorFlow Object Detection API
+# Traffic Light Detection
 
-The project is forked from https://github.com/coldKnight/TrafficLight_Detection-TensorFlowAPI.git
+Implemented with TensorFlow Object Detection API. 
 
-A brief introduction to the project is available [here](https://medium.com/@Vatsal410/traffic-light-detection-tensorflow-api-c75fdbadac62)
+Tested on LaRA dataset.
+
+Model inference example:
+
+![alt-text][i3738]
+
+Check out the rendered video in 
+[Youtube](https://youtu.be/BcPy9m__bY4) or 
+[BaiduPan](https://pan.baidu.com/s/1slwWdBJ)
 
 
-### Get the dataset
+## LaRA Traffic Lights Recognition (TLR) Public Benchmarks
 
-[Drive location](https://drive.google.com/file/d/0B-Eiyn-CUQtxdUZWMkFfQzdObUE/view?usp=sharing)
+On-board vehicle acquisition in a dense urban environment:
+
+- 11179 frames (8min 49sec, @25FPS)
+- 640×480 (RGB, 8bits)
+- Paris (France)
+
+Links:
+
+- Download [Dataset download link](http://s150102174.onlinehome.fr/Lara/files/Lara_UrbanSeq1_JPG.zip)
+
+- Download [Ground truth labels](http://s150102174.onlinehome.fr/Lara/files/Lara_UrbanSeq1_GroundTruth_GT.txt)
+
+- [A detailed dataset description](http://www.lara.prd.fr/benchmarks/trafficlightsrecognition)
+
+To make TFRecord files for Tensorflow tranning, read [this](lara/README.md)
+
+
+## Performance
+
+Here records an informal test performance on 592 unseen images:
+
+- Model = SSD MobileNet, pre-trained on COCO 
+- Infer time per image = 9 ms 
+- Green  light AP@0.5IOU = 0.385
+- Red    light AP@0.5IOU = 0.725
+- Yellow light AP@0.5IOU = 0.385
+- Precision   mAP@0.5IOU = 0.620
+
+*Running on Tesla P40 GPU*
+
+Training total loss:
+
+![alt-text][aloss]
 
 
 ### Get the tensorflow models lib
@@ -32,9 +72,8 @@ Download the required model tar.gz files and untar them into `models/` directory
 
 `python data_conversion.py --input_yaml lara/annotations_test.yaml --output_path lara/test.record`
 
-## Using Faster-RCNN / Inception SSD v2 / MobileNet SSD v1 model
 
-#### Training, Evaluating, and Tensorboarding
+### Training, Evaluating, and Tensorboarding
 
 `sh train.sh <faster_rcnn | ssd_inception | ssd_mobilenet>`
 
@@ -44,13 +83,14 @@ Download the required model tar.gz files and untar them into `models/` directory
 
 *note you'd better not run train & evaluate together because they will use up GPU memory*
 
-#### Saving Weights for Inference
+
+### Saving Weights for Inference
 
 `sh freeze.sh <faster_rcnn | ssd_inception | ssd_mobilenet> <model checkpoint version num>`
----
 
 
-**Inference results can be viewed using the TrafficLightDetection-Inference.ipynb or .html files.**
+### Infer Results, Visualize, and Make Video
+using the `TrafficLightDetection-Inference.ipynb`
 
-### Camera Image and Model's Detection Sample
-![alt-text][real0000]
+
+###
